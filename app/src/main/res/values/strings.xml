@@ -4,8 +4,8 @@
     <string name="masukkan_berat_badan_kg">Masukkan Berat Badan (kg)</string>
     <string name="masukkan_tinggi_badan_cm">Masukkan Tinggi Badan (cm)</string>
     <string name="hitung">Hitung</string>
-    <string name="result">RESULT</string>
+    <string name="result">HASIL BMI ANDA</string>
     <string name="bb">BB</string>
-    <string name="bb">BB</string>
+    <string name="tb">TB</string>
     <string name="category">Category</string>
 </resources>
