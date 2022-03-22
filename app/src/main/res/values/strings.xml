@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="masukkan_berat_badan_kg">Masukkan Berat Badan (kg)</string>
+    <string name="masukkan_tinggi_badan_cm">Masukkan Tinggi Badan (cm)</string>
+    <string name="hitung">Hitung</string>
+    <string name="result">RESULT</string>
+    <string name="bb">BB</string>
+    <string name="bb">BB</string>
+    <string name="category">Category</string>
+</resources>
